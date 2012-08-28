@@ -2,7 +2,7 @@ require "json"
 require "unicode_utils/upcase"
 require_relative "../store"
 require_relative "../translation"
-require 'profile'
+
 
 module Lolita
   module I18n
